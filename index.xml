@@ -13,6 +13,18 @@
     
     
     <item>
+      <title>About</title>
+      <link>https://burk.blog/about/</link>
+      <pubDate>Fri, 26 Jun 2020 14:38:49 -0600</pubDate>
+      
+      <guid>https://burk.blog/about/</guid>
+      <description>Hey, Alex here!
+Welcome to my blog! I&amp;rsquo;m a software engineer currently living in Denver Colorado.
+I love swing dancing, software, personal finance, and shoes. So you may see posts about any of these topics.
+Cheers!</description>
+    </item>
+    
+    <item>
       <title>First Post</title>
       <link>https://burk.blog/post/test-post/</link>
       <pubDate>Tue, 16 Jun 2020 11:12:43 -0600</pubDate>
