@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 16 Jun 2020 11:12:43 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2020 16:46:29 -0600</lastBuildDate>
     
 	<atom:link href="https://burk.blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Multiple Custom Domains With Github Pages</title>
+      <link>https://burk.blog/post/using-multiple-custom-domains-with-github-pages/</link>
+      <pubDate>Fri, 26 Jun 2020 16:46:29 -0600</pubDate>
+      
+      <guid>https://burk.blog/post/using-multiple-custom-domains-with-github-pages/</guid>
+      <description>When setting up this blog I decided I wanted to use a different domain than the main one I already had. I spent quite a bit of time trying to figure out if it was possible to use GitHub Pages to use multiple custom domains for multiple repositories and exactly how to do it.
+I finally found this post which set me straight on both counts. Here are both the steps outlined again and a non-exhaustive list of the things I bumped into but ultimately were not part of the solution.</description>
+    </item>
     
     <item>
       <title>About</title>
