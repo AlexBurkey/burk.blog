@@ -7,9 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://burk.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>bedos</title>
+      <link>https://burk.blog/tags/bedos/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://burk.blog/tags/bedos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cobblers</title>
+      <link>https://burk.blog/tags/cobblers/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://burk.blog/tags/cobblers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://burk.blog/tags/review/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://burk.blog/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shoes</title>
+      <link>https://burk.blog/tags/shoes/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://burk.blog/tags/shoes/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

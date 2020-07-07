@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 26 Jun 2020 16:46:29 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://burk.blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Using Multiple Custom Domains With Github Pages</title>
-      <link>https://burk.blog/posts/using-multiple-custom-domains-with-github-pages/</link>
-      <pubDate>Fri, 26 Jun 2020 16:46:29 -0600</pubDate>
-      
-      <guid>https://burk.blog/posts/using-multiple-custom-domains-with-github-pages/</guid>
-      <description>When setting up this blog I decided I wanted to use a different domain than the main one I already had. I spent quite a bit of time trying to figure out if it was possible to use GitHub Pages to use multiple custom domains for multiple repositories and exactly how to do it.
-I finally found this post which set me straight on both counts. Here are both the steps outlined again and a non-exhaustive list of the things I bumped into but ultimately were not part of the solution.</description>
-    </item>
     
     <item>
       <title>About</title>
@@ -33,6 +23,27 @@ I finally found this post which set me straight on both counts. Here are both th
 Welcome to my blog! I&amp;rsquo;m a software engineer currently living in Denver Colorado.
 I love swing dancing, software, personal finance, and shoes. So you may see posts about any of these topics.
 Cheers!</description>
+    </item>
+    
+    <item>
+      <title>Bedos Leatherworks Toe Taps Review</title>
+      <link>https://burk.blog/posts/bedos-toe-taps-review/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://burk.blog/posts/bedos-toe-taps-review/</guid>
+      <description>Bedo&amp;rsquo;s Leather Works is a cobbler business located in Falls Church VA and is currently run by Steve Doudaklian. Steve does a lot of amazing work on seemingly anything made of leather. You might be familiar with some of his videos where he restored a pair of Allen Edmonds Strands or his famous Florshiem restorations. Check out his YoutTube channel it&amp;rsquo;s mesmerizing.
+ New Alden Loafers
+  I recently got a pair of wonderful Alden shell loafers from Brick &amp;amp; Mortar Seattle (above) and I wanted to extend the life of the soles a little.</description>
+    </item>
+    
+    <item>
+      <title>Using Multiple Custom Domains With Github Pages</title>
+      <link>https://burk.blog/posts/using-multiple-custom-domains-with-github-pages/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://burk.blog/posts/using-multiple-custom-domains-with-github-pages/</guid>
+      <description>When setting up this blog I decided I wanted to use a different domain than the main one I already had. I spent quite a bit of time trying to figure out if it was possible to use GitHub Pages to use multiple custom domains for multiple repositories and exactly how to do it.
+I finally found this post which set me straight on both counts. Here are both the steps outlined again and a non-exhaustive list of the things I bumped into but ultimately were not part of the solution.</description>
     </item>
     
     <item>
