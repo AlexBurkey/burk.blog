@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex&#39;s Blog</title>
+    <link>https://burk.blog/</link>
+    <description>Recent content on Alex&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 26 Jun 2020 16:46:29 -0600</lastBuildDate>
+    
+	<atom:link href="https://burk.blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Multiple Custom Domains With Github Pages</title>
+      <link>https://burk.blog/posts/using-multiple-custom-domains-with-github-pages/</link>
+      <pubDate>Fri, 26 Jun 2020 16:46:29 -0600</pubDate>
+      
+      <guid>https://burk.blog/posts/using-multiple-custom-domains-with-github-pages/</guid>
+      <description>When setting up this blog I decided I wanted to use a different domain than the main one I already had. I spent quite a bit of time trying to figure out if it was possible to use GitHub Pages to use multiple custom domains for multiple repositories and exactly how to do it.
+I finally found this post which set me straight on both counts. Here are both the steps outlined again and a non-exhaustive list of the things I bumped into but ultimately were not part of the solution.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://burk.blog/about/</link>
+      <pubDate>Fri, 26 Jun 2020 14:38:49 -0600</pubDate>
+      
+      <guid>https://burk.blog/about/</guid>
+      <description>Photo of me. Image credit: Jerry Almonte
+  Hey, Alex here!
+Welcome to my blog! I&amp;rsquo;m a software engineer currently living in Denver Colorado.
+I love swing dancing, software, personal finance, and shoes. So you may see posts about any of these topics.
+Cheers!</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://burk.blog/posts/test-post/</link>
+      <pubDate>Tue, 16 Jun 2020 11:12:43 -0600</pubDate>
+      
+      <guid>https://burk.blog/posts/test-post/</guid>
+      <description>My First Blog Post Hey, Alex here! It&amp;rsquo;s been a goal of mine to have a blog/website for little posts and thoughts that I have about things. So here it is!
+I&amp;rsquo;m using the static-site generator Hugo to build this. I just have to configure the theme to make the site look nice and I can write posts using markdown for formatting. I&amp;rsquo;m hosting it using GitHub Pages which is super easy and I highly recommend for static sites.</description>
+    </item>
+    
+  </channel>
+</rss>
